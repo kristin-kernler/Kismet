@@ -3,10 +3,10 @@
 Project Name:
 
 Team Member Names:
-Florencia Cabral
-Gregory Giordano
-Kristin Kernler
-Daniel Kingsley
+Florencia Cabral,
+Gregory Giordano,
+Kristin Kernler,
+Daniel Kingsley,
 Carter Reid
 
 Vision Statement:
