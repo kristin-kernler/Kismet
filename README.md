@@ -47,11 +47,9 @@ Mitigation strategy for above risks:
 
 Development method: scrum, kanban, waterfall: with specifics!
 
-We will use Agile Development for our project, specifically, the Scrum Method. Our project does not have clear requirements because we want to experiment and adapt during development. The Scrum Method will allow us flexibility and early and continuous delivery. We want to tailor our product to user interest and Scrum will make it easier to incorporate the features from user stories. 
+We will use Agile Development for our project, specifically, the Scrum Method. Our project does not have clear requirements because we want to experiment and adapt during development. The Scrum Method will allow us flexibility and early and continuous delivery. Following this model, we plan to start by creating a basic working prototype, for example one that offers only a fortune cookie interface for every question. We will then progressively add new features while ensuring the base code is still functional. Furthermore, we want to tailor our product to user interest and Scrum will make it easier to incorporate the features from user stories. 
 
-Our team includes 5 people, and we will organize from within our team. Kristin is the Scrum Master and will facilitate our Daily Scrums. We will have these Daily Scrums once or twice a week in Zoom since we are in a remote class environment. At the end of each Sprint, we will also review the product/feature and the efficacy of our current process and communication.We will maintain a sprint backlog. The product backlog is supposed to be owned by the product manager, but in this class environment we will be managing the product backlog. 
-
-We may incorporate the Kanban’s method of visualizing tasks with a board on Trello. However, this will depend on what method of visualization works best for our team.
+Our team includes 5 people, and we will organize from within our team. Kristin is the Scrum Master and will facilitate our Scrums. We will hold them once or twice a week in Zoom since we are in a remote class environment. At the end of each Sprint, we will also review the product/feature and the efficacy of our current process and communication. We will maintain a sprint backlog. The product backlog is supposed to be owned by the product manager, but in this class environment we will be managing the product backlog ourselves. We may incorporate the Kanban method of visualizing tasks with a board on Trello.
 
 
 Project tracking software:
